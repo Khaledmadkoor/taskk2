@@ -1,0 +1,127 @@
+body{
+    background-color: red;
+}
+.zero{
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    width: 300px;
+    height: 600px;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 3px 3px 5px 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.kk{
+    margin: 20px;
+    
+    
+    
+}
+.onee{
+    border-style: double;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    
+}
+.kh{
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px;
+    padding-left: 55px;
+    padding-top: 15px;
+    width:300px;
+    color:red ;
+}
+.kn{
+    text-align: center;
+    width: 300px;
+    padding: 25px;
+    font-size: 18px;
+    color: blue;
+}
+.two{
+    width: 300px;
+    height: 600px;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 3px 3px 5px 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.oneee{
+    border-style: double;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+}
+.kl{
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px;
+    padding-left: 55px;
+    padding-top: 15px;
+    width:300px;
+    color: yellowgreen;
+}
+.kw{
+    text-align: center;
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 28px;
+    font-size: 18px;
+    color: green;
+
+
+}
+
+.three{
+    width: 300px;
+    height: 600px;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 3px 3px 5px 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.dd{
+    padding-left: 60px;
+} 
+.qq{
+    padding-left: 60px;
+}   
+.kq{
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px;
+    padding-left: 80px;
+    padding-top: 15px;
+    width:300px;
+    color: orangered;
+
+}
+.kd{
+    text-align: center;
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 18px;
+    color:brown;
+
+}
+.qd{
+    padding-left: 73px;
+
+}
